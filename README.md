@@ -1,2 +1,4 @@
-# Mahesh_Tictactoegame
-Tic tac toe game created by me 
+# Mahesh_Tictactoegames
+Basic Tic tac toe game is created using HTML,CSS and Javascript
+
+
